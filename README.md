@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codeshweta 
-- 👀 I’m interested in Font end Web Development 
+- 👀 I’m interested in Fontend Web Development 
 - 🌱 I’m currently learning Java , C/C++
 
 
